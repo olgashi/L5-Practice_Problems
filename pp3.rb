@@ -1,3 +1,5 @@
+# referencing letter 'g' 
+
 arr1 = ['a', 'b', ['c', ['d', 'e', 'f', 'g']]]
 
 puts arr1[2][1].last
